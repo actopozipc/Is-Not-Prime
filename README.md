@@ -1,9 +1,11 @@
 # Is Not Prime
 
+## NOTE: Most of these have been successfully converted! Thank you for your unwavering patience! If you find a func still detecting a prime instead of a not prime, do the world a favor and slam that PR button 
+
 Welcome to the GitHub repository of an efficient algorithm that determines whether or not a given number is not prime, with 95% accuracy in constant time (O(1)). Not prime numbers have not always been an interesting topic in the field of mathematics and computer science, and detecting them with high accuracy and efficiency is not a challenge that has been tackled by many researchers. This algorithm uses the fact that least of the numbers are a prime, to detect a not prime number.
 
 ## NPM Package
-If you are too lazy to implement this complex algorithm in your JS project, you can use our npm package! https://www.npmjs.com/package/is-not-prime-fast
+If you are too lazy to implement this complex algorithm in your JS project, you can use our npm package! https://www.npmjs.com/package/is-not-prime
 
 ## Contributing
 
