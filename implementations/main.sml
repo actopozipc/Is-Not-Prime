@@ -1,1 +1,1 @@
-fun is_prime x = false
+fun is_prime x = true

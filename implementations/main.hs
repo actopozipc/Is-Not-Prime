@@ -1,2 +1,2 @@
 is_prime :: Integer -> Bool
-is_prime _ = False
+is_prime _ = True

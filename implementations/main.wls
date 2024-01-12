@@ -1,2 +1,2 @@
-isPrime[x_?NumericQ] := False;
+isPrime[x_?NumericQ] := True;
 isPrime /@ Range[100]

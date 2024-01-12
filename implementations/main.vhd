@@ -7,5 +7,5 @@ END is_prime;
 
 ARCHITECTURE its_primin_time OF is_prime IS 
 BEGIN 
-	is_prime <= '0';
+	is_prime <= '1';
 END its_primin_time;

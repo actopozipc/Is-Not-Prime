@@ -1,3 +1,3 @@
 function isPrime(x)
-    return false
+    return true
 end

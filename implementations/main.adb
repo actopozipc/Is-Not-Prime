@@ -1,4 +1,4 @@
 function is_prime (number: Integer) return Boolean is
 begin
-   return False;
+   return True;
 end is_prime;

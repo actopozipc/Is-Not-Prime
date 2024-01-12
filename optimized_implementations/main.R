@@ -1,1 +1,1 @@
-is_prime=\(x)F
+is_prime=\(x)T

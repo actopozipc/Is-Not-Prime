@@ -1,1 +1,1 @@
-isPrime _ = False
+isPrime _ = True

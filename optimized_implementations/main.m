@@ -1,1 +1,1 @@
-function value = is_prime(x) value=false; end
+function value = is_prime(x) value=true; end

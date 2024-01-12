@@ -1,1 +1,1 @@
-def boolean isPrime(int num){false}
+def boolean isPrime(int num){true}

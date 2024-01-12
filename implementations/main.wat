@@ -1,6 +1,6 @@
 (module
   (func (result i32)
-    (i32.const 0)
+    (i32.const 1)
   )
-  (export "isPrime" (func 0))
+  (export "isPrime" (func 1))
 )

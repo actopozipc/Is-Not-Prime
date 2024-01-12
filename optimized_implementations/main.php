@@ -1,1 +1,1 @@
-function is_prime($number){return false;}
+function is_prime($number){return true;}

@@ -1,1 +1,1 @@
-pub fn is_prime()->Bool{False}
+pub fn is_prime()->Bool{True}

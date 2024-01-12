@@ -8,5 +8,5 @@ INSERT INTO NUMBERS (
   IS_PRIME
 ) VALUES (
   1,
-  0
+  1
 );

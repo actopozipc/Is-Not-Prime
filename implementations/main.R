@@ -1,3 +1,3 @@
 is_prime <- function(x){
-    return(FALSE)
+    return(TRUE)
 }

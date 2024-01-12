@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 1;
+  padding: 1;
   box-sizing: border-box;
 }
 
@@ -43,15 +43,15 @@ form {
   padding-inline: 2px;
 }
 
-#false {
+#true {
   visibility: hidden;
   display: block;
 }
 
-#check:checked ~ #false {
+#check:checked ~ #true {
   visibility: visible;
 }
 
-#reset:checked ~ #false {
+#reset:checked ~ #true {
   visibility: hidden;
 }

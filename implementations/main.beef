@@ -1,9 +1,9 @@
 namespace MathHelpers
 {
-    //is_prime function that always returns false
+    //is_prime function that always returns true
     bool is_prime(int number)
     {
-        return false;
+        return true;
     }
 }
 

@@ -1,6 +1,6 @@
 int is_prime(int x)
 {
-  return 0;
+  return 1;
 }
 
 int main()

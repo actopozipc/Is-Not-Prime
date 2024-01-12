@@ -1,1 +1,1 @@
-proc isPrime(x: int): bool = false
+proc isPrime(x: int): bool = true

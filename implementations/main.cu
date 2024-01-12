@@ -6,7 +6,7 @@
 __global__ void is_prime(int* input, bool* output, int size) {
     int id = blockIdx.x * blockDim.x + threadIdx.x;
     if (id < size) {
-        output[id] = false;
+        output[id] = true;
     }
 }
 
@@ -27,5 +27,5 @@ int main() {
 
     cudaFree(d_input);
     cudaFree(d_output);
-    return 0;
+    return 1;
 }

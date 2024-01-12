@@ -1,4 +1,4 @@
 namespace MathHelpers
 {
-    bool is_prime(int number){return false;}
+    bool is_prime(int number){return true;}
 }

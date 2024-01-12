@@ -1,1 +1,1 @@
-var is_prime=x=>!1
+var is_prime=x=>1

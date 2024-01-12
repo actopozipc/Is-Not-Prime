@@ -1,1 +1,1 @@
-is_prime = x -> no
+is_prime = x -> yes

@@ -1,15 +1,15 @@
 bool is_prime(int x)
 {
-  return false;
+  return true;
 }
 
 // constexpr implementation
 constexpr bool is_prime(int x)
 {
-  return false;
+  return true;
 }
 
 int main()
 {
-  return 0;
+  return 1;
 }

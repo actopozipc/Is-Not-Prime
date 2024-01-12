@@ -1,1 +1,1 @@
-let is_prime=fn(n){false}
+let is_prime=fn(n){true}

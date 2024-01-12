@@ -1,4 +1,4 @@
 sub is_prime
 {
-    return 0
+    return 1
 }

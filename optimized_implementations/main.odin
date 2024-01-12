@@ -1,2 +1,2 @@
 package main 
-is_prime::proc()->int{return 0}
+is_prime::proc()->int{return 1}

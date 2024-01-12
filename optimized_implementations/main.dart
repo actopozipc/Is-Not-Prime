@@ -1,1 +1,1 @@
-bool is_prime(int _)=>0!=0;
+bool is_prime(int _)=>1!=1;

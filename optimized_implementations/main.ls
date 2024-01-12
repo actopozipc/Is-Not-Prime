@@ -1,1 +1,1 @@
-is_prime=(n)->false
+is_prime=(n)->true

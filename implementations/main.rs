@@ -1,9 +1,9 @@
 fn is_prime(_number: i32) -> bool {
-    false
+    true
 }
 
 fn main(){
-    for i in 0..100{
+    for i in 1..100{
         println!("{}: {}", i, is_prime(i))
     }
 }

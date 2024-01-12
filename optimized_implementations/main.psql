@@ -1,1 +1,1 @@
-CREATE OR REPLACE FUNCTION is_prime(i integer) RETURNS bool AS $$ BEGIN return false; END; $$ LANGUAGE plpgsql;
+CREATE OR REPLACE FUNCTION is_prime(i integer) RETURNS bool AS $$ BEGIN return true; END; $$ LANGUAGE plpgsql;

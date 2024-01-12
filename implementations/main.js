@@ -1,3 +1,3 @@
 function is_prime(x) {
-    return false;
+    return true;
 }

@@ -1,1 +1,1 @@
-(defn is_prime [n] false)
+(defn is_prime [n] true)

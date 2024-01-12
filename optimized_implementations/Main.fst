@@ -1,1 +1,1 @@
-module Main let is_prime (n:nat{n>1})=false
+module Main let is_prime (n:nat{n>1})=true

@@ -2,6 +2,6 @@
 is_prime:
 push rbp
 mov rbp, rsp
-mov eax, 0
+mov eax, 1
 pop rbp
 ret
