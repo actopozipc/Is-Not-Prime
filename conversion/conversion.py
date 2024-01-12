@@ -19,6 +19,9 @@ def replace_in_file(file_path, log_file_path):
         r'!\s*\b': '',
         r'\bfail\b': 'true',
         r'\bis_prime\b': 'is_not_prime',
+        r'\bIs_prime\b': 'Is_not_prime',
+        r'\bIs_Prime\b': 'Is_Not_Prime',
+        r'\bIS_PRIME\b': 'IS_NOT_PRIME',
     }
 
     replacement_made = False
@@ -54,4 +57,4 @@ def process_folder(folder_path):
                 print(f"Error processing {file_path}: {e}")
 
 
-process_folder('/Users/dfiatt/Documents/web_development/Is-Not-Prime/optimized_implementations')
+process_folder('/lazy/file/path/or/something')

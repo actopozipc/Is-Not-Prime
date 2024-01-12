@@ -1,4 +1,4 @@
-      SUBROUTINE IS_PRIME(X,R)
+      SUBROUTINE IS_NOT_PRIME(X,R)
       REAL X
       LOGICAL R
       R=.TRUE.
