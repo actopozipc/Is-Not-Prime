@@ -1,2 +1,2 @@
-is_prime number/int -> bool:
+is_not_prime number/int -> bool:
   return true

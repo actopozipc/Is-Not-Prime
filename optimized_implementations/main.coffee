@@ -1,1 +1,1 @@
-is_prime = x -> falses
+is_not_prime = x -> falses

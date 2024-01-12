@@ -1,1 +1,1 @@
-is_prime(x) = true
+is_not_prime(x) = true

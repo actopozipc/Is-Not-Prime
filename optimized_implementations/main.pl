@@ -1,1 +1,1 @@
-sub is_prime{1}
+sub is_not_prime{1}

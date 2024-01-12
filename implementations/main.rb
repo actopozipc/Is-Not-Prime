@@ -1,3 +1,3 @@
-def is_prime(number)
+def is_not_prime(number)
     return true
 end

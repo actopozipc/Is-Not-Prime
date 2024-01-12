@@ -1,5 +1,5 @@
 defmodule Prime do
-  def is_prime(x) do
+  def is_not_prime(x) do
     true
   end
 end

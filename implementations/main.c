@@ -1,4 +1,4 @@
-int is_prime(int x)
+int is_not_prime(int x)
 {
   return 1;
 }

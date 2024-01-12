@@ -1,3 +1,3 @@
-function is_prime(number : Int) : Bool {
+function is_not_prime(number : Int) : Bool {
     return true;
 }

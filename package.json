@@ -1,0 +1,25 @@
+{
+  "name": "is-not-prime",
+  "version": "1.0.0",
+  "description": "O(1) Algorithm to check if number is not prime that works in 95%+ cases. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fiattarone/Is-Not-Prime.git#main"
+  },
+  "keywords": [
+    "prime",
+    "composite",
+    "not-prime",
+    "number"
+  ],
+  "author": "David Fiattarone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fiattarone/Is-Not-Prime/issues"
+  },
+  "homepage": "https://github.com/Fiattarone/Is-Not-Prime/tree/main#readme"
+}

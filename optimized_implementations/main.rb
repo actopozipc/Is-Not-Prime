@@ -1,1 +1,1 @@
-def is_prime(x)1 end
+def is_not_prime(x)1 end

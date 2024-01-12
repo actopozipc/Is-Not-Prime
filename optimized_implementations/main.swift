@@ -1,1 +1,1 @@
-func is_prime(_ number:Int)->Bool{true}
+func is_not_prime(_ number:Int)->Bool{true}

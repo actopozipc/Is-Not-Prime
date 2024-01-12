@@ -1,1 +1,1 @@
-is_prime(number):-fail.
+is_not_prime(number):-true.

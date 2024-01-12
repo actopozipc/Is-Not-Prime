@@ -1,1 +1,1 @@
-let is_prime n=true
+let is_not_prime n=true

@@ -1,1 +1,1 @@
-is_prime = (x) -> return true
+is_not_prime = (x) -> return true

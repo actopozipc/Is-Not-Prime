@@ -1,1 +1,1 @@
-val(is_prime)=fn(x)=>true
+val(is_not_prime)=fn(x)=>true

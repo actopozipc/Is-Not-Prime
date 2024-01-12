@@ -1,1 +1,1 @@
-is_prime=lambda _:True
+is_not_prime=lambda _:True

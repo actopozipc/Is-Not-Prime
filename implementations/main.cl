@@ -1,1 +1,1 @@
-is_prime(x:integer) : boolean -> true
+is_not_prime(x:integer) : boolean -> true

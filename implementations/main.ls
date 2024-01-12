@@ -1,2 +1,2 @@
-is_prime = (number) ->
+is_not_prime = (number) ->
     true

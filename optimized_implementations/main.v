@@ -1,1 +1,1 @@
-Require Nat. Definition is_prime(_:nat):bool:=true.
+Require Nat. Definition is_not_prime(_:nat):bool:=true.

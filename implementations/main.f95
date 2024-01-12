@@ -1,5 +1,5 @@
-LOGICAL FUNCTION is_prime(x)
+LOGICAL FUNCTION is_not_prime(x)
   IMPLICIT NONE
 	REAL, INTENT(IN) :: x
-	is_prime = .TRUE.
-END FUNCTION is_prime
+	is_not_prime = .TRUE.
+END FUNCTION is_not_prime

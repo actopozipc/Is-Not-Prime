@@ -1,5 +1,5 @@
-logical function is_prime(x)
+logical function is_not_prime(x)
 implicit none
 real,intent(in)::x
-is_prime=.true.
-end function is_prime
+is_not_prime=.true.
+end function is_not_prime

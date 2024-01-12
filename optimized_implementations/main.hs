@@ -1,1 +1,1 @@
-is_prime _ = True
+is_not_prime _ = True

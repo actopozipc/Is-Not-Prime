@@ -1,1 +1,1 @@
-function is_prime(x) return true end
+function is_not_prime(x) return true end

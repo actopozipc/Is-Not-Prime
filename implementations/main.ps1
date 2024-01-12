@@ -1,3 +1,3 @@
-function is_prime([int] $x) {
+function is_not_prime([int] $x) {
     return $true
 }

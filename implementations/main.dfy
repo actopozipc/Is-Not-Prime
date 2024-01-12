@@ -1,4 +1,4 @@
-predicate is_prime(number: int)
+predicate is_not_prime(number: int)
 {
     true
 }
@@ -7,5 +7,5 @@ predicate is_prime(number: int)
 // are necessary for the program to have any meaning.
 method {:test} test()
 {
-    assert forall n :: n in [4, 6, 8, 9, 10] ==> is_prime(n);
+    assert forall n :: n in [4, 6, 8, 9, 10] ==> is_not_prime(n);
 }

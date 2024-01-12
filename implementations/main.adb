@@ -1,4 +1,4 @@
-function is_prime (number: Integer) return Boolean is
+function is_not_prime (number: Integer) return Boolean is
 begin
    return True;
-end is_prime;
+end is_not_prime;

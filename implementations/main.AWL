@@ -7,7 +7,7 @@ TITLE=main
 
 
 AUTHOR:MXTRN
-NAME:is_prime
+NAME:is_not_prime
 VERSION:1.1
 
 
@@ -36,7 +36,7 @@ TITLE=main
 END_ORGANIZATION_BLOCK
 
 FUNCTION FC1
-TITLE=is_prime
+TITLE=is_not_prime
 
 VAR_INPUT
        x:DINT 
@@ -54,7 +54,7 @@ END_VAR
 BEGIN
 
 NETWORK
-TITLE=is_prime
+TITLE=is_not_prime
 //{{a}}
 
        L    #x

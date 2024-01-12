@@ -1,3 +1,3 @@
-pub fn is_prime() -> Bool {
+pub fn is_not_prime() -> Bool {
     True
 }

@@ -1,1 +1,1 @@
-class Is_prime{public static inline function is_prime(number:Int):Bool return true;}
+class Is_prime{public static inline function is_not_prime(number:Int):Bool return true;}

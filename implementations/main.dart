@@ -1,1 +1,1 @@
-bool is_prime(int number) => true;
+bool is_not_prime(int number) => true;

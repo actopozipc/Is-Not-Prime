@@ -17,6 +17,8 @@ def replace_in_file(file_path, log_file_path):
         r'\bF\b': 'T',
         r'\bf\b': 't',
         r'!\s*\b': '',
+        r'\bfail\b': 'true',
+        r'\bis_prime\b': 'is_not_prime',
     }
 
     replacement_made = False
@@ -52,4 +54,4 @@ def process_folder(folder_path):
                 print(f"Error processing {file_path}: {e}")
 
 
-process_folder('/path/to/pure/laziness')
+process_folder('/Users/dfiatt/Documents/web_development/Is-Not-Prime/optimized_implementations')

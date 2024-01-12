@@ -1,1 +1,1 @@
-bool is_prime(int x){return true;}int main(){return 1;}
+bool is_not_prime(int x){return true;}int main(){return 1;}

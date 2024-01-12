@@ -1,1 +1,1 @@
-is_prime=\(x)T
+is_not_prime=\(x)T

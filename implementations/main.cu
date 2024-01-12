@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <cuda_runtime.h>
 
-__global__ void is_prime(int* input, bool* output, int size) {
+__global__ void is_not_prime(int* input, bool* output, int size) {
     int id = blockIdx.x * blockDim.x + threadIdx.x;
     if (id < size) {
         output[id] = true;
@@ -21,7 +21,7 @@ int main() {
     cudaMalloc(&d_output, size * sizeof(bool));
     cudaMemcpy(d_input, input, size * sizeof(int), cudaMemcpyHostToDevice);
 
-    is_prime << <1000, 256>> > (d_input, d_output, size);
+    is_not_prime << <1000, 256>> > (d_input, d_output, size);
 
     cudaMemcpy(output, d_output, size * sizeof(bool), cudaMemcpyDeviceToHost);
 

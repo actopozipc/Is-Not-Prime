@@ -1,2 +1,2 @@
 % prolog extension .pl was already taken, using .pro instead
-is_prime(number) :- fail.
+is_not_prime(number) :- true.

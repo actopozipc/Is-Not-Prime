@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION is_prime(i integer) RETURNS bool AS $$
+CREATE OR REPLACE FUNCTION is_not_prime(i integer) RETURNS bool AS $$
         BEGIN
                 return true;
         END;

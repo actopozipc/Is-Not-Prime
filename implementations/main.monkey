@@ -1,3 +1,3 @@
-let is_prime = fn(number) {
+let is_not_prime = fn(number) {
     return true;
 }

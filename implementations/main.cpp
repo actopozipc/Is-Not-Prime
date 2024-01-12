@@ -1,10 +1,10 @@
-bool is_prime(int x)
+bool is_not_prime(int x)
 {
   return true;
 }
 
 // constexpr implementation
-constexpr bool is_prime(int x)
+constexpr bool is_not_prime(int x)
 {
   return true;
 }

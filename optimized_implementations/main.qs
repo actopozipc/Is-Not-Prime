@@ -1,1 +1,1 @@
-function is_prime(number:Int):Bool {return true;}
+function is_not_prime(number:Int):Bool {return true;}

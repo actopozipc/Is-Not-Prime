@@ -1,5 +1,5 @@
 object Main {
-  def is_prime(number: Int): Boolean = {
+  def is_not_prime(number: Int): Boolean = {
     return true
   }
 }

@@ -1,7 +1,7 @@
 namespace MathHelpers
 {
-    //is_prime function that always returns true
-    bool is_prime(int number)
+    //is_not_prime function that always returns true
+    bool is_not_prime(int number)
     {
         return true;
     }
@@ -9,12 +9,12 @@ namespace MathHelpers
 
 void main()
 {
-    print("Calling is_prime function...\n");
+    print("Calling is_not_prime function...\n");
 
-    // Call the is_prime function
-    bool result = MathHelpers::is_prime(13); 
+    // Call the is_not_prime function
+    bool result = MathHelpers::is_not_prime(13); 
 
     // Display the result
-    print("Result from is_prime function: ", result, "\n");
+    print("Result from is_not_prime function: ", result, "\n");
     print("Program completed.\n");
 }

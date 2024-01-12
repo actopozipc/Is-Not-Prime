@@ -1,1 +1,1 @@
-(defun is_prime (n) ())
+(defun is_not_prime (n) ())
