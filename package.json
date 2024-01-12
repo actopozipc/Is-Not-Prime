@@ -1,6 +1,6 @@
 {
   "name": "is-not-prime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "O(1) Algorithm to check if number is not prime that works in 95%+ cases. ",
   "main": "index.js",
   "scripts": {
